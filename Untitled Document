@@ -1,0 +1,40 @@
+   /mycodesandbox
+	/apperson
+		/configerson		
+		/modelson 			
+		/viewson
+		/controllerson
+	   
+   		/publicson
+	  	    /assetson
+			/js
+			----/liberson
+			/csserson
+			/img
+			/icons
+			/fonts	
+		  	index.php
+		
+		/developmentson
+		  /assetson
+			/js
+			   /liberson	
+			/csserson
+			/imgson
+			/iconson
+			/fontson          	
+	         	index.php
+
+
+
+    BRANCHES
+
+    	/master
+	/configerson		
+	/modelson 			
+	/viewson
+	/controllerson
+	   
+     
+
+
